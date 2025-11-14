@@ -1,4 +1,4 @@
-# default.py
+﻿# default.py
 import requests
 import re
 import sys
@@ -179,3 +179,4 @@ def router(paramstring):
 
 if __name__ == '__main__':
     router(sys.argv[2][1:])
+
