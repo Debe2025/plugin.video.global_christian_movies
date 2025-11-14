@@ -1,23 +1,20 @@
-# Nollywood Movies – Kodi Video Add-on
-
-[![GitHub release](https://img.shields.io/github/v/release/coolitis/plugin.video.nollywood_movies?label=Version)](https://github.com/coolitis/plugin.video.nollywood_movies/releases)  
-[![Kodi Add-on](https://img.shields.io/badge/Kodi-Video%20Add--on-blue)](https://kodi.tv)
+﻿# Nollywood Movies  Kodi Video Add-on
 
 ![Nollywood Movies](icon.png)
 
-**Watch the latest Nollywood movies, classics, and hidden gems — directly in Kodi!**  
-Powered by **yt-dlp** (bundled & auto-updated), no external players needed.
+**Stream the best of Nollywood  classics, new releases, and hidden gems  directly in Kodi!**  
+Powered by **yt-dlp** (bundled, clean, and auto-updated). No login. No ads. No secrets.
 
 ---
 
 ## Features
 
-- **Thousands of Nollywood movies** (YouTube, Instagram, TikTok, etc.)
-- **Auto HD streaming** – picks the best quality
-- **Search & Browse** – by title, genre, year
-- **Built-in yt-dlp** – always up-to-date
-- **No login, no ads, no trackers**
-- **100% clean** – GitHub Push Protection verified
+- **10+ verified Nollywood YouTube channels** (RealNollyTV, IbakaTV, NollyLand, etc.)
+- **Auto HD streaming**  best quality available
+- **Search & Browse**  by channel, title, or genre
+- **Built-in yt-dlp**  always up-to-date
+- **No external player needed**
+- **100% clean & legal**  GitHub Push Protection verified
 
 ---
 
@@ -26,16 +23,16 @@ Powered by **yt-dlp** (bundled & auto-updated), no external players needed.
 ### Method 1: Install from ZIP (Recommended)
 
 1. **Download the latest ZIP**  
-   [plugin.video.nollywood_movies-1.0.0.zip](plugin.video.nollywood_movies-1.0.0.zip)
+   [plugin.video.nollywood_movies-2.0.0.zip](plugin.video.nollywood_movies-2.0.0.zip)
 
-2. Open **Kodi** → **Add-ons** → Click the **box icon** (top-left)  
-   → **"Install from ZIP file"**
+2. Open **Kodi**  **Add-ons**  Click the **box icon** (top-left)  
+    **"Install from ZIP file"**
 
 3. Select the downloaded .zip file
 
 4. Wait for **"Add-on installed"** notification
 
-5. Go to **Video Add-ons** → **Nollywood Movies**
+5. Go to **Video Add-ons**  **Nollywood Movies**
 
 ---
 
@@ -46,10 +43,21 @@ Powered by **yt-dlp** (bundled & auto-updated), no external players needed.
 
 2. Install from ZIP (same as above)
 
-3. Go to **Add-ons → My Add-ons → Coolitis Repo**  
-   → Install **Nollywood Movies**
+3. Go to **Add-ons  My Add-ons  Coolitis Repo**  
+    Install **Nollywood Movies**
 
 > **Auto-updates enabled!**
+
+---
+
+## What's New in v2.0.0
+
+- **10+ verified Nollywood channels** (RealNollyTV, IbakaTV, NollyLand, NollywoodBest, etc.)
+- **Fixed YouTube extraction** with latest yt-dlp (November 2025)
+- **Legal third-party bundling**  full Unlicense + attribution
+- **Removed unsafe extractors** (shahid.py with test AWS keys)
+- **Faster search** with thumbnails
+- **Auto yt-dlp update** on launch
 
 ---
 
@@ -59,9 +67,9 @@ Powered by **yt-dlp** (bundled & auto-updated), no external players needed.
 2. Browse:
    - **Latest Releases**
    - **Most Popular**
-   - **Genres** (Action, Drama, Comedy…)
+   - **Channels** (RealNollyTV, IbakaTV, etc.)
    - **Search** (type movie title)
-3. Click a movie → **Play**
+3. Click a movie  **Play**
 
 ---
 
@@ -81,24 +89,23 @@ Powered by **yt-dlp** (bundled & auto-updated), no external players needed.
 |--------|-----|
 | **"No streams found"** | Check internet. Try another movie. |
 | **"Script error"** | Update Kodi to v19+ (Matrix) or v20 (Nexus) |
-| **"yt-dlp failed"** | Go to **Settings → Force Update yt-dlp** |
+| **"yt-dlp failed"** | Go to **Settings  Force Update yt-dlp** |
 
 ---
 
-## Changelog
+## Legal & Third-Party Notice
 
-### v1.0.0 – Initial Release
-- Full Nollywood movie database
-- yt-dlp bundled (clean, no test keys)
-- Auto HD streaming
-- Search & genre browsing
+This add-on bundles **yt-dlp** under the **[Unlicense](resources/lib/third_party/yt_dlp/LICENSE)** (public domain).  
+See full attribution: [README_THIRD_PARTY.md](resources/lib/third_party/yt_dlp/README_THIRD_PARTY.md)
+
+> **No secrets. No test keys. GitHub-safe.**
 
 ---
 
 ## Source & Support
 
 - **GitHub**: [github.com/coolitis/plugin.video.nollywood_movies](https://github.com/coolitis/plugin.video.nollywood_movies)
-- **Download ZIP**: [plugin.video.nollywood_movies-1.0.0.zip](plugin.video.nollywood_movies-1.0.0.zip)
+- **Download ZIP**: [plugin.video.nollywood_movies-2.0.0.zip](plugin.video.nollywood_movies-2.0.0.zip)
 - **Report Issues**: [Open an Issue](https://github.com/coolitis/plugin.video.nollywood_movies/issues)
 - **Developer**: coolitis
 
@@ -112,8 +119,8 @@ Use responsibly and respect copyright.
 
 ---
 
-**Enjoy Nollywood in Kodi — anytime, anywhere!**
+**Enjoy Nollywood in Kodi  anytime, anywhere!**
 
 ---
 
-*Made with love for African cinema*  
+*Made with love for African cinema*
