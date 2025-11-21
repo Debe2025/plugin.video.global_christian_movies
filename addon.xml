@@ -1,16 +1,26 @@
-﻿<?xml version="2.0.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.nollywood_movies" name="Nollywood Movies" version="2.0.0" provider-name="YourName">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nollywood_movies"
+       name="Nollywood Movies"
+       version="2.0.0"
+       provider-name="Debe">
+
     <requires>
-        <import addon="xbmc.python" version="2.0.0"/>
-        <import addon="script.module.requests" version="2.0.0"/>  <!-- If using requests -->
+        <!-- For Kodi 19+ / Python 3 -->
+        <import addon="xbmc.python" version="3.0.0" />
+        <!-- Only include this if you actually use 'requests' in your code -->
+        <import addon="script.module.requests" version="2.0.0" />
     </requires>
+
+    <!-- Main plugin entry point -->
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
+
+    <!-- Metadata -->
     <extension point="xbmc.addon.metadata">
         <summary>Stream Nollywood movies</summary>
         <description>Access Nollywood films from YouTube and more.</description>
         <platform>all</platform>
     </extension>
-</addon>
 
+</addon>
