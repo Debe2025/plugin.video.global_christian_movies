@@ -1,26 +1,48 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.nollywood_movies"
        name="Nollywood Movies"
-       version="1.0.0"
+       version="1.1.0"
        provider-name="Debe">
 
     <requires>
-        <!-- For Kodi 19+ / Python 3 -->
-        <import addon="xbmc.python" version="3.0.0" />
-        <!-- Only include this if you actually use 'requests' in your code -->
-        <import addon="script.module.requests" version="2.0.0" />
+        <!-- Core requirements -->
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests" version="2.25.1"/>
+        
+        <!-- AUTO-INSTALL: Official YouTube addon + inputstream (happens on first install!) -->
+        <import addon="plugin.video.youtube" version="7.0.0" optional="false"/>
+        <import addon="inputstream.adaptive" version="21.4.0" optional="false"/>
     </requires>
 
-    <!-- Main plugin entry point -->
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
     </extension>
 
-    <!-- Metadata -->
     <extension point="xbmc.addon.metadata">
-        <summary>Stream Nollywood movies</summary>
-        <description>Access Nollywood films from YouTube and more.</description>
-        <platform>all</platform>
-    </extension>
+        <summary lang="en_GB">Stream the best Nollywood movies directly in Kodi</summary>
+        <description lang="en_GB">
+Watch latest 2025 Nollywood hits from iROKOtv, Ruth Kadiri, Mount Zion and more – all streamed from YouTube.
+No login, no subscription, no buffering.
 
+Features:
+• Latest Movies, Action, Romance, Comedy, Drama
+• Real-time search
+• Beautiful posters (optional TMDB)
+• Automatic YouTube addon installation
+• Works on Firestick, Android, Windows, Linux
+        </description>
+        <disclaimer lang="en_GB">Uses only public, embeddable YouTube videos. No content is hosted.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <license>MIT</license>
+        <website>https://github.com/Debe2025/plugin.video.nollywood_movies</website>
+        <source>https://github.com/Debe2025/plugin.video.nollywood_movies</source>
+        <news>v1.1.0 - Automatic YouTube + inputstream installation on first launch!</news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+        </assets>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+    </extension>
 </addon>
