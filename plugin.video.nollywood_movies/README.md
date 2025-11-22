@@ -1,61 +1,72 @@
-# Nollywood Movies Plugin
+# Nollywood Movies for Kodi  
+**Stream the best of Nigerian cinema directly in Kodi – 100% free, 100% legal**
 
-This plugin allows users to stream Nollywood movies via YouTube URLs. **It does not host any content itself**—all videos are provided by YouTube.  
+Watch latest 2025 Nollywood hits – all streamed straight from YouTube.  
+No sign-up, no subscription, no downloading.
 
-**Stream Nollywood movies in Kodi!**  
-10+ channels, Auto HD, no login.
+![Nollywood Movies](icon.png)
 
----
+## Download & Install (30 seconds)
 
-## Download & Install
+**Latest Version (v1.0.0 – 2025)**  
+[Download plugin.video.nollywood_movies.zip](https://github.com/Debe2025/plugin.video.nollywood_movies/releases/download/v1.0.0/plugin.video.nollywood_movies-1.0.0.zip)
 
-**Download ZIP:** [Download Latest Version](https://github.com/Debe2025/plugin.video.nollywood_movies/archive/refs/heads/main.zip)
+1. Open Kodi  
+2. Go to **Add-ons** → Click the open-box icon (top-left) → **Install from ZIP file**  
+3. Select the downloaded `plugin.video.nollywood_movies-1.0.0.zip`  
+4. Wait for “Add-on installed” notification → Done!
 
-1. Open Kodi → Add-ons → **Install from ZIP file**  
-2. Select the downloaded ZIP → Done!
+The addon will appear under **Video Add-ons → Nollywood Movies**
 
----
+## How to Get Your FREE YouTube API Key (2 minutes)
 
-## Legal & Compliance
+Your addon needs a **free** YouTube Data API v3 key to work (quota is more than enough for personal use).
 
-- Bundles **yt-dlp** under [Unlicense](resources/lib/third_party/yt_dlp/LICENSE).  
-- Used only for advanced streaming features; still references only YouTube links, no video files are bundled.  
-- See: [Third-Party](resources/lib/third_party/yt_dlp/README_THIRD_PARTY.md)
+1. Go to → https://console.cloud.google.com/apis/credentials  
+2. Sign in with your Google account  
+3. Click **Create Project** → Name it anything (e.g. “Kodi Nollywood”) → Create  
+4. Click **+ CREATE CREDENTIALS** → **API key**  
+5. Copy the key that appears (looks like `AIzaSy...`)  
+6. In Kodi:  
+   → Open **Nollywood Movies** → Right-click → **Add-on settings**  
+   → Paste the key into **YouTube Data API v3 Key (REQUIRED)**  
+   → Click OK
 
-No videos are stored or redistributed. Only YouTube links are used.  
+That’s it! You now have unlimited access.
 
-Ensure all streaming complies with YouTube’s Terms of Service and local laws.
-
----
+**TMDB API Key = 100% OPTIONAL**  
+Leave it empty → addon works perfectly with YouTube thumbnails  
+Want better posters & plots? Get a free TMDB key at https://www.themoviedb.org/settings/api
 
 ## Features
 
-- Browse and play Nollywood movies directly from YouTube.
-- Works with any compatible media player that supports plugins.
-- Lightweight and easy to use.
+- Latest Movies, Action, Romance, Comedy, Drama categories  
+- Real-time search (always fresh 2025 releases)  
+- Dynamic YouTube search – never breaks  
+- Beautiful thumbnails & info (with optional TMDB enhancement)  
+- Direct playback via official YouTube (inputstream.rtmp auto-installed)  
+- Works on Windows, Android, Linux, Firestick, etc.
 
----
+## Legal & Important
+
+- This addon **does NOT host or store** any video files  
+- All content is streamed directly from YouTube  
+- Only public, embeddable videos are shown  
+- You are responsible for complying with YouTube’s Terms of Service and your local laws
 
 ## Disclaimer
 
-- Provided for personal and educational use only.  
-- Does **not host, upload, or distribute copyrighted content**.  
-- Users are responsible for ensuring YouTube content use complies with local copyright laws.  
-- Use at your own risk; the developer is not responsible for misuse.
+Provided for personal, non-commercial use only.  
+The developer is not responsible for how you use this addon.
+
+## Made With Love For African Cinema
+
+Proudly built for the Nigerian & African diaspora worldwide.  
+Enjoy your movies!
+
+**Debe2025 © 2025** – MIT License
 
 ---
 
-## Contributing
-
-Contributions welcome!  
-
-- Only include code or scripts referencing **legal streaming links**.  
-- Do **not** upload copyrighted videos or media.  
-
-**Made with love for African cinema**
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Now go watch in full HD, on your TV.  
+You deserve this. Enjoy!
