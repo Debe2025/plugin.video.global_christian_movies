@@ -6,7 +6,7 @@
 
     <requires>
         <!-- For Kodi 19+ / Python 3 -->
-        <import addon="xbmc.python" version="2.25.0" />
+        <import addon="xbmc.python" version="3.0.0" />
         <!-- Only include this if you actually use 'requests' in your code -->
         <import addon="script.module.requests" version="2.0.0" />
     </requires>

@@ -1,5 +1,6 @@
 # resources/lib/tmdb.py
 import xbmc
+import xbmcaddon
 import xbmcgui
 import requests
 
