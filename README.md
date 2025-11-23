@@ -8,7 +8,7 @@ Watch powerful Christian movies and documentaries from **Nigeria • Ghana • K
 ## Download & Install (30 seconds)
 
 **Latest Version (v1.0.0 – 2025)**  
-[Download plugin.video.global_christian_movies-1.0.0.zip](https://github.com/Debe2025/plugin.video.global_christian_movies/releases/download/v1.0.0/plugin.video.global_christian_movies-1.0.0.zip)
+[Download plugin.video.global_christian_movies-1.0.1.zip](https://github.com/Debe2025/plugin.video.global_christian_movies/releases/download/v1.0.1/plugin.video.global_christian_movies-1.0.1.zip)
 
 1. Open Kodi  
 2. Add-ons → Open-box icon → **Install from ZIP file**  
