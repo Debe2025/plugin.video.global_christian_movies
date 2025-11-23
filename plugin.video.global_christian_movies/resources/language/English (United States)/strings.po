@@ -1,0 +1,53 @@
+# English language strings for Nollywood Movies Addon
+msgid ""
+msgstr ""
+"Project-Id-Version: plugin.video.nollywood_movies\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-13\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Main Menu
+msgctxt "#30000"
+msgid "Latest Nollywood Movies"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Search Movies"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Genres"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Action"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Romance"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Comedy"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Drama"
+msgstr ""
+
+#: Search
+msgctxt "#30100"
+msgid "Enter movie title..."
+msgstr ""
+
+#: Errors
+msgctxt "#30200"
+msgid "No results found."
+msgstr ""
+
+msgctxt "#30201"
+msgid "Failed to fetch content. Check internet or API keys."
+msgstr ""

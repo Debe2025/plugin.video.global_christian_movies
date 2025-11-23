@@ -1,72 +1,63 @@
-# Nollywood Movies for Kodi  
-**Stream the best of Nigerian cinema directly in Kodi – 100% free, 100% legal**
+# Global Christian Movies & Documentaries for Kodi
+**One addon. The whole world. One faith.**
 
-Watch latest 2025 Nollywood hits – all streamed straight from YouTube.  
-No sign-up, no subscription, no downloading.
+Watch powerful Christian movies and documentaries from **Nigeria • Ghana • Kenya • South Africa • USA • UK • India • Brazil • Philippines • Korea • China** and more — all free from YouTube.
 
-![Nollywood Movies](icon.png)
+![Global Christian Movies](icon.png)
 
 ## Download & Install (30 seconds)
 
 **Latest Version (v1.0.0 – 2025)**  
-https://github.com/Debe2025/plugin.video.nollywood_movies/releases/download/v1.0.0/plugin.video.nollywood_movies-1.0.0.zip 
+[Download plugin.video.global_christian_movies-1.0.0.zip](https://github.com/Debe2025/plugin.video.global_christian_movies/releases/download/v1.0.0/plugin.video.global_christian_movies-1.0.0.zip)
 
 1. Open Kodi  
-2. Go to **Add-ons** → Click the open-box icon (top-left) → **Install from ZIP file**  
-3. Select the downloaded `plugin.video.nollywood_movies-1.0.0.zip`  
-4. Wait for “Add-on installed” notification → Done!
+2. Add-ons → Open-box icon → **Install from ZIP file**  
+3. Select the downloaded ZIP  
+4. Wait → “Add-on installed”
 
-The addon will appear under **Video Add-ons → Nollywood Movies**
+Find it under **Video Add-ons → Global Christian Movies**
 
 ## How to Get Your FREE YouTube API Key (2 minutes)
 
-Your addon needs a **free** YouTube Data API v3 key to work (quota is more than enough for personal use).
+1. Visit → https://console.cloud.google.com/apis/credentials  
+2. Create Project → **+ CREATE CREDENTIALS** → **API key**  
+3. Copy the key  
+4. In Kodi: Open the addon → Settings → Paste into **YouTube Data API v3 Key** → OK
 
-1. Go to → https://console.cloud.google.com/apis/credentials  
-2. Sign in with your Google account  
-3. Click **Create Project** → Name it anything (e.g. “Kodi Nollywood”) → Create  
-4. Click **+ CREATE CREDENTIALS** → **API key**  
-5. Copy the key that appears (looks like `AIzaSy...`)  
-6. In Kodi:  
-   → Open **Nollywood Movies** → Right-click → **Add-on settings**  
-   → Paste the key into **YouTube Data API v3 Key (REQUIRED)**  
-   → Click OK
+That’s it — worldwide Christian cinema unlocked!
 
-That’s it! You now have unlimited access.
+## Countries Included
 
-**TMDB API Key = 100% OPTIONAL**  
-Leave it empty → addon works perfectly with YouTube thumbnails  
-Want better posters & plots? Get a free TMDB key at https://www.themoviedb.org/settings/api
+- Nigeria (Mount Zion, Flaming Sword)  
+- Ghana • Kenya • South Africa  
+- USA (Pure Flix, Kendrick Brothers, The Chosen)  
+- UK • India (Hindi/Tamil/Malayalam)  
+- Brazil • Philippines • Korea  
+- China (Mainland & House Church testimonies)  
+- All Countries (mixed global content)
+
+Every country includes **movies + documentaries + testimonies**
 
 ## Features
 
-- Latest Movies, Action, Romance, Comedy, Drama categories  
-- Real-time search (always fresh 2025 releases)  
-- Dynamic YouTube search – never breaks  
-- Beautiful thumbnails & info (with optional TMDB enhancement)  
-- Direct playback via official YouTube (inputstream.rtmp auto-installed)  
-- Works on Windows, Android, Linux, Firestick, etc.
+- 11 countries in one addon  
+- Real-time search across the globe  
+- Fresh 2025 releases + timeless classics  
+- Automatic YouTube addon installation  
+- Works everywhere: Firestick, Android, Windows, Linux
 
 ## Legal & Important
 
-- This addon **does NOT host or store** any video files  
-- All content is streamed directly from YouTube  
-- Only public, embeddable videos are shown  
-- You are responsible for complying with YouTube’s Terms of Service and your local laws
+- No hosted content — only public, embeddable YouTube videos  
+- Respect YouTube ToS and local copyright laws
 
-## Disclaimer
+## For The Great Commission
 
-Provided for personal, non-commercial use only.  
-The developer is not responsible for how you use this addon.
-
-## Made With Love For African Cinema
-
-Proudly built for the Nigerian & African diaspora worldwide.  
-Enjoy your movies!
+One addon to reach every nation with the Gospel through film.  
+From Lagos to Seoul, from São Paulo to Shanghai — Jesus is preached.
 
 **Debe2025 © 2025** – MIT License
 
 ---
-
-Now go watch in full HD, on your TV.  
-You deserve this. Enjoy!
+Go therefore and make disciples of all nations… through cinema too!  
+Be blessed!
